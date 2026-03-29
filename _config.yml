@@ -27,7 +27,7 @@ github:
   username: johncybersec1 # change to your GitHub username
 
 twitter:
-  username: Xxcr4xX # change to your Twitter username
+  username: vectissec # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -36,7 +36,7 @@ social:
   email: johnpeterinform@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/Xxcr4xX # change to your Twitter homepage
+    - https://twitter.com/vectissec # change to your Twitter homepage
     - https://github.com/johncybersec1 # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
